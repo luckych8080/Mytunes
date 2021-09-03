@@ -1,0 +1,27 @@
+.img-a1{
+    background-image: url("imgs/1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%; max-height: 100%;
+    background-attachment: fixed;
+}
+
+.section-a1{
+    padding: 0 30px ;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.img-a2{
+    background-image: url("imgs/4.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%; max-height: 100%;
+    /* background-attachment: fixed; */
+}
+
+.text-a3{
+    max-width: 900px;
+}
